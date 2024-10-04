@@ -1,0 +1,21 @@
+2024-10-04 17:08:45,212 INFO  org.example.Main: Начало скачек. Количество участников: 7
+2024-10-04 17:09:05,652 INFO  org.example.Main: Окончание скачек. Победитель: Cherry
+2024-10-04 17:12:48,278 INFO  org.example.Main: Начало скачек. Количество участников: 7
+2024-10-04 17:13:08,707 INFO  org.example.Main: Окончание скачек. Победитель: Cherry
+2024-10-04 17:14:49,456 ERROR org.example.Hippodrome: Hippodrome: Horses list is null
+2024-10-04 17:16:15,082 DEBUG org.example.Hippodrome: Hippodrome: Создание Hippodrome, лошадей [%d]
+2024-10-04 17:16:15,084 INFO  org.example.Main: Начало скачек. Количество участников: 7
+2024-10-04 17:16:35,540 INFO  org.example.Main: Окончание скачек. Победитель: Pegasus
+2024-10-04 17:17:18,982 DEBUG org.example.Hippodrome: Hippodrome: Создание Hippodrome, лошадей [7]
+2024-10-04 17:17:18,985 INFO  org.example.Main: Начало скачек. Количество участников: 7
+2024-10-04 17:17:39,397 INFO  org.example.Main: Окончание скачек. Победитель: Pegasus
+2024-10-04 17:23:25,603 DEBUG org.example.Horse: Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-10-04 17:23:25,605 DEBUG org.example.Horse: Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-10-04 17:23:25,606 DEBUG org.example.Horse: Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2024-10-04 17:23:25,606 DEBUG org.example.Horse: Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2024-10-04 17:23:25,606 DEBUG org.example.Horse: Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2024-10-04 17:23:25,606 DEBUG org.example.Horse: Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2024-10-04 17:23:25,606 DEBUG org.example.Horse: Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2024-10-04 17:23:25,607 DEBUG org.example.Hippodrome: Hippodrome: Создание Hippodrome, лошадей [7]
+2024-10-04 17:23:25,607 INFO  org.example.Main: Начало скачек. Количество участников: 7
+2024-10-04 17:23:45,982 INFO  org.example.Main: Окончание скачек. Победитель: Cherry
